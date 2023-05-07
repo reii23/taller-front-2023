@@ -1,0 +1,23 @@
+*{
+    border: 1px solid blue;
+}
+
+.contenedor-principal{
+    display:flex;
+    flex-direction: column;
+}
+
+.header-aside{
+    display: flex;
+
+}
+
+.aside-item{
+    flex-grow: 1;
+
+}
+
+.header-item{
+    flex-grow: 1;
+   
+}

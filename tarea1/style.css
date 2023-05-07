@@ -1,0 +1,33 @@
+/* Fuente letra del titulo */
+.navbar {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/*margen entre los elementos del header*/
+.nav-link {
+  display: flex;
+}
+
+.carousel-container h1 /* Lugar donde se ubica el texto de en medio con fondo negro con opacidad*/
+{   position: absolute;
+    top:0px; /* posicionar el texto más abajo */
+    width: 100%;
+    text-align: center;
+    z-index: 2;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ffcb57;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+
+.carousel-item img{ /*tamaño imagenes del carrusel*/
+  height:750px;
+}
+
+.centrado-iconos {  /*iconos arriba de cada columna*/
+    display: block;
+    margin: 0 auto;
+}
+  
+
+  
