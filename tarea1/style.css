@@ -6,6 +6,7 @@
 /*margen entre los elementos del header*/
 .nav-link {
   display: flex;
+  margin-right:200px;
 }
 
 .carousel-container h1 /* Lugar donde se ubica el texto de en medio con fondo negro con opacidad*/
