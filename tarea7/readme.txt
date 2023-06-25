@@ -1,0 +1,1 @@
+tarea 7 del curso Front de la Universidad de Santiago de Chile la cual consiste en el uso de la API https://pokeapi.co para realizar cartas de 20 pokemones que incluyan su nombre e imagen usando promesas, manejo de errores mediante Try y Catch, además de Fetch para solicitar el endpoint a la API.
